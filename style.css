@@ -1,0 +1,19 @@
+.brew-list {
+    min-height: 100vh;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-top: 26px;
+    margin: 0 auto;
+    display: grid;
+}
+.brew-container{
+    background-color: #ff0099a8;
+    padding:16px;
+    border-radius: 20px;
+    width: 362px;
+    display: flex;
+     margin-bottom: 20px; 
+    
+    color: white;
+}
